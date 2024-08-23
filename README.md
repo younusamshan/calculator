@@ -1,2 +1,2 @@
-https://tanzeel4.github.io/calculator-java/
-https://functionalcalculat.netlify.app
+
+ https://younusamshan.github.io/calculator/
